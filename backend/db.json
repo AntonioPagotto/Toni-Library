@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "id": 0,
+            "name": "A Cabana",
+            "client": "Antonio",
+            "fone": 992415545
+        },
+        {
+            "id": 1,
+            "name": "O Código da Vinci",
+            "client": "João",
+            "fone": 988485125
+        },
+        {
+            "id": 2,
+            "name": "Ponto de Impacto",
+            "client": "Angela",
+            "fone": 9884834525
+        },
+        {
+            "id": 3,
+            "name": "No País de Obama",
+            "client": "Bob",
+            "fone": 9858123952
+        }
+    ]
+}
