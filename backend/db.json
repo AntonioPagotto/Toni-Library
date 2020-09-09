@@ -1,28 +1,51 @@
 {
-    "books": [
-        {
-            "id": 0,
-            "name": "A Cabana",
-            "client": "Antonio",
-            "fone": 992415545
-        },
-        {
-            "id": 1,
-            "name": "O Código da Vinci",
-            "client": "João",
-            "fone": 988485125
-        },
-        {
-            "id": 2,
-            "name": "Ponto de Impacto",
-            "client": "Angela",
-            "fone": 9884834525
-        },
-        {
-            "id": 3,
-            "name": "No País de Obama",
-            "client": "Bob",
-            "fone": 9858123952
-        }
-    ]
+  "books": [
+    {
+      "id": 0,
+      "name": "A Cabana",
+      "client": "Antonio",
+      "fone": 992415545
+    },
+    {
+      "id": 1,
+      "name": "O Código da Vinci",
+      "client": "João",
+      "fone": 988485125
+    },
+    {
+      "id": 2,
+      "name": "Ponto de Impacto",
+      "client": "Angela",
+      "fone": 988483525
+    },
+    {
+      "id": 3,
+      "name": "No País de Obama",
+      "client": "Bob",
+      "fone": 985812352
+    },
+    {
+      "name": "A Cabana",
+      "client": "Antonio",
+      "id": 4
+    },
+    {
+      "name": "Ponto de Inflexão",
+      "client": "Flávio Augusto",
+      "fone": "35992415545",
+      "id": 5
+    },
+    {
+      "name": "Jogos Vorazes",
+      "client": "Disponível",
+      "fone": null,
+      "id": 6
+    },
+    {
+      "name": "O Pequeno Príncipe",
+      "client": "Carolina Rivera",
+      "fone": "35872781289",
+      "id": 7
+    }
+  ]
 }
